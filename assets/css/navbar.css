@@ -19,7 +19,7 @@
     font-weight: bold;
   }
 
-  .dropdown-menu>.active>a {
+  .dropdown-menu>a.active {
     background-color: #eea03be5;
     color: white !important;
     font-weight: bold;
